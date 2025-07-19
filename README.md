@@ -125,14 +125,5 @@ To change this, update the connection string in `dbConnection.js`.
 
 ---
 
-## 👨‍💻 Author
 
-- **Your Name**
-- [GitHub](https://github.com/your-username)
-
----
-
-## 📄 License
-
-This project is licensed under the **ISC License**.
 
